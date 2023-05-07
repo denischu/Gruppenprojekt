@@ -1,1 +1,10 @@
-die Aufgabe macht mich fertig
+die Aufgabe macht mich fertig 0
+die Aufgabe macht mich fertig 1
+die Aufgabe macht mich fertig 2
+die Aufgabe macht mich fertig 3
+die Aufgabe macht mich fertig 4
+die Aufgabe macht mich fertig 5
+die Aufgabe macht mich fertig 6
+die Aufgabe macht mich fertig 7
+die Aufgabe macht mich fertig 8
+die Aufgabe macht mich fertig 9
